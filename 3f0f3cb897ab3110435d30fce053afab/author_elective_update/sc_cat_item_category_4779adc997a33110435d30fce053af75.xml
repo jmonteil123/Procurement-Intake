@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Procurement of Services">ee81298197a33110435d30fce053af21</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 18:11:04</sys_created_on>
+        <sys_id>4779adc997a33110435d30fce053af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Procurement of Services</sys_name>
+        <sys_package display_value="Procurement" source="x_808676_procure_0">3f0f3cb897ab3110435d30fce053afab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement">3f0f3cb897ab3110435d30fce053afab</sys_scope>
+        <sys_update_name>sc_cat_item_category_4779adc997a33110435d30fce053af75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 18:11:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement">3f0f3cb897ab3110435d30fce053afab</application>
+        <file_path/>
+        <instance_id>745f86351b3671506a85eb9b2d4bcbc4</instance_id>
+        <instance_name>dev228894</instance_name>
+        <name>sc_cat_item_category_4779adc997a33110435d30fce053af75</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Procurement of Services">ee81298197a33110435d30fce053af21</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 18:11:04</sys_created_on><sys_id>4779adc997a33110435d30fce053af75</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Procurement of Services</sys_name><sys_package display_value="Procurement" source="x_808676_procure_0">3f0f3cb897ab3110435d30fce053afab</sys_package><sys_policy/><sys_scope display_value="Procurement">3f0f3cb897ab3110435d30fce053afab</sys_scope><sys_update_name>sc_cat_item_category_4779adc997a33110435d30fce053af75</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 18:11:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1160099591</payload_hash>
+        <record_name>Services.Procurement of Services</record_name>
+        <reverted_from/>
+        <source>98189dc597633110435d30fce053afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 18:11:04</sys_created_on>
+        <sys_id>0b79adc997a33110435d30fce053af79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cd08595610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 18:11:04</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>8b79adc9baa33110265bea3a81a31678</update_guid>
+        <update_guid_history>8b79adc9baa33110265bea3a81a31678:1160099591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Procurement of Services">05ba254d97a33110435d30fce053afc8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 18:16:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>267a01ddfa014b2886b12c1818644444</sys_id>
+        <sys_metadata>4779adc997a33110435d30fce053af75</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Procurement of Services</sys_name>
+        <sys_package display_value="Procurement" source="x_808676_procure_0">3f0f3cb897ab3110435d30fce053afab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement">3f0f3cb897ab3110435d30fce053afab</sys_scope>
+        <sys_scope_delete display_value="">62b5ef1698714ba89a23d88df01a9fa4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4779adc997a33110435d30fce053af75</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4779adc997a33110435d30fce053af75">0b79adc997a33110435d30fce053af79</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 18:16:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

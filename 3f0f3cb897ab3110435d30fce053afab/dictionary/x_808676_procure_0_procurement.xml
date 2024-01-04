@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="888fb4f897ab3110435d30fce053af84" extends="task" label="Procurement" max_length="40" name="x_808676_procure_0_procurement" type="collection">
+        <element choice="1" label="Requisition Type" max_length="40" name="requisition_type" type="choice">
+            <choice/>
+        </element>
+        <element label="Service Fee" max_length="20" name="service_fee" type="price"/>
+        <element label="Title of Requisition" max_length="40" name="title_of_requisition" type="string"/>
+        <element choice="1" label="Type of PO" max_length="40" name="type_of_po" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

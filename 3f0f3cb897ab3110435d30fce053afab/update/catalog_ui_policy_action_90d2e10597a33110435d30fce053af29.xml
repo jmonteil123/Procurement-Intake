@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Procurement of Services">ee81298197a33110435d30fce053af21</catalog_item>
+        <catalog_variable>IO:fca1a98197a33110435d30fce053af92</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 17:41:56</sys_created_on>
+        <sys_id>90d2e10597a33110435d30fce053af29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment</sys_name>
+        <sys_package display_value="Procurement" source="x_808676_procure_0">3f0f3cb897ab3110435d30fce053afab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement">3f0f3cb897ab3110435d30fce053afab</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_90d2e10597a33110435d30fce053af29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 17:41:56</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Always make 'attachment' mandatory &amp; visible ">e7b2610597a33110435d30fce053afb6</ui_policy>
+        <variable>attachment</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
